@@ -98,11 +98,10 @@ farmtech-2/
 ## 🧠 Tecnologias Utilizadas
 
 * Python 3.x
-* Oracle Database (via oracledb)
+* Oracle Database (via fiap)
 * Estruturas de dados: listas, tuplas, dicionários
 * Manipulação de arquivos JSON e TXT
 * Programação orientada a objetos
-* Arquitetura em camadas (MVC)
 
 ## 🔍 Funcionalidades
 
