@@ -1,0 +1,12 @@
+[
+    {
+        "id_lote": "123",
+        "tipo": "manual",
+        "data": "22/04/2025",
+        "previsto": 34.0,
+        "colhido": 32.0,
+        "eficiencia": 94.12,
+        "perda": 5.88,
+        "obs": "tivemos muitos funcionarios novos esse ano"
+    }
+]

@@ -1,0 +1,35 @@
+==================================================
+      RELATÓRIO DE EFICIÊNCIA DE COLHEITA DE CANA
+      Gerado em: 22/04/2025 23:51:18
+==================================================
+
+RESUMO DAS COLHEITAS
+Total de registros: 1
+Colheitas manuais: 1
+Colheitas mecânicas: 0
+
+EFICIÊNCIA
+Eficiência média total: 94.12%
+Eficiência média (manual): 94.12%
+Eficiência média (mecânica): 0.00%
+Diferença de eficiência: 94.12%
+
+==================================================
+DETALHES DAS COLHEITAS
+==================================================
+
+Colheita #1
+Lote: 123
+Tipo: Manual
+Data: 22/04/2025
+Previsto: 34.0 toneladas
+Colhido: 32.0 toneladas
+Eficiência: 94.12%
+Perda: 5.88%
+Observações: tivemos muitos funcionarios novos esse ano
+
+--------------------------------------------------
+
+
+
+Fim do relatório.
